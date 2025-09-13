@@ -32,6 +32,11 @@ codegen/
 # Cloud based storage dotfile
 .MATLABDriveTag
 
+
+# build folder
+build/
+
+
 # buildtool cache folder
 .buildtool/
 
