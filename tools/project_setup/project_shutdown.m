@@ -1,8 +1,9 @@
 function project_shutdown
 
-disp([newline '*** STARTING PROJECT ***']);
+disp([newline '*** CLOSING PROJECT ***']);
 
 % perform shutdown processes
+matlab_functions.project_cleanup(false);
 
 % clear base workspace
 
