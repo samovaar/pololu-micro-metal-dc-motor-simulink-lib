@@ -1,3 +1,0 @@
-[submodule "tools/externals/matlab-simulink-utilities"]
-	path = tools/externals/matlab-simulink-utilities
-	url = https://github.com/samovaar/matlab-simulink-utilities.git
